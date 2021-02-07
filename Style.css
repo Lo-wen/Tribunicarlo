@@ -1,0 +1,113 @@
+html{
+	font-size: 10px;
+}
+
+body{
+	max-width: 90%;
+	margin: 10px;
+	width: 80%;
+	background-color: Black;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0;
+    font-size: 4rem;
+    line-height: 2.2;
+    margin-top: 37.2px;
+    margin-left: 45rem;
+    color: orange;
+}
+
+.subtitle{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 1.4rem;
+	margin-left: 53rem;
+	color: white;
+}
+
+figure{
+	max-width: 100%;
+	display: flex;
+	height: auto;
+	margin: 0 auto;
+	flex: 1;
+	justify-content: center;
+}
+
+figure img{
+    height: 50vh;
+    margin-top: 12.5rem;
+    margin-left: -61px;
+}
+
+.image-resize{
+	display: flex;
+    margin-top: -31.5rem;
+    margin-left: 73em;
+}
+
+.intro-text{
+    color: black;
+    font-size: 2rem;
+    padding-left: 19rem;
+    line-height: 2;
+    margin: 21px;
+    background-color: #FFFAFA;
+    position: relative;
+    word-break: normal;
+    width: 52%;
+    max-width: 90%;
+    padding: 106px;
+    border-radius: 12px;
+    text-align: center;
+    padding-left: 5em;
+    margin-left: 14em;
+    margin-top: 10em;
+}
+
+.listofworks{
+ color: black;
+ font-size: 20px;
+ margin: 20px;
+ padding: 106px;
+ background-color: white;
+ margin-left: 14em;
+ border-radius: 12px;
+ text-align: center;
+ font-family: 'Nunito Sans', sans-serif;
+}
+
+li {
+	list-style-type: none;
+}
+
+figcaption{
+	color: white;
+    margin-left: 45rem;
+    font-size: 16px;
+    margin-top: 2rem;
+}
+
+.qoute{
+	color: white;
+	margin: 20px;
+	margin-left: 12em;
+	margin-top: 2em;
+	padding-left: 102px;
+	text-align: center;
+	font-size: 18px;
+	font-family:'Montserrat', sans-serif;
+}
+
+cite{
+	color: white;
+	margin: 20px;
+	margin-left: 27em;
+	margin-top: 2em;
+	padding-left: 102px;
+	text-align: center;
+	font-size: 18px;
+	font-family:'Montserrat', sans-serif;
+}
+
